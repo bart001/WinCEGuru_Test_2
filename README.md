@@ -1,2 +1,2 @@
 # WinCEGuru_Test_2
-Second Testing Repository
+Second Testing Repository for GuruCE-project
